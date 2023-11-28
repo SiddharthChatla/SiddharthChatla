@@ -10,7 +10,4 @@ If anyone's wondering what I have created so far, look into [sydart_666](https:/
 - 🤔 I’m looking for help with finding a project or the references, which can inspire people **against war** or any acts of terrorism. *( not sure if I can find one )*
 - 📫 How to reach me: LinkedIn [Siddharth-chatla](https://www.linkedin.com/in/siddarth-chatla/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact:
- 		** Irrational Murder **
-		As 5th Century Pythagorean cultist Hippasus of Metapontum, the man credited with the discovery of irrationality, mathematically speaking, is rumored to have 			been murdered for the crime of divulging the existence of irrational numbers. [more...](https://esoterx.com/2014/12/03/murder-by-math-the-irrational-demise-of-hippasus/)
 
