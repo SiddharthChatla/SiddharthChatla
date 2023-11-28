@@ -1,5 +1,5 @@
 ### Hello, World 👋 
-My name is Siddharth, I am a Computer Science Master's student at University of Wisconsin Milwaukee. However I have been into art my whole life and looking for a good project idea,, where I can write program with the same intentions that I draw. _( May be an art portfolio )_
+My name is Siddharth, I am a Computer Science Master's student at University of Wisconsin Milwaukee. However I have been into art my whole life and looking for a good project idea, where I can write program with the same intentions that I draw. _( May be an art portfolio )_
 
 If anyone's wondering what I have created so far, look into [sydart_666](https://www.instagram.com/sydart_666/) on instagram.
 
